@@ -1,4 +1,4 @@
-# Equivalence Classes for LOINC Terms
+# Equivalence Classes for LOINC Terms (LOINC version 2.66)
 
 For some purposes, such a flowsheet, it is useful to regard groups of
 [LOINC](https://loinc.org/) terms as equivalent.  We call these groups
@@ -26,3 +26,5 @@ Documentation-for-Equivalence-Classes.pdf.
 The code for generating these classes is also available at
 https://github.com/lhncbc/loinc-equivalence-classes.
 
+Please note that use of LOINC content must conform to the LOINC [terms of
+use](https://loinc.org/terms-of-use).
