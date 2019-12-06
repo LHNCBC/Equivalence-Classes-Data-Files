@@ -1,6 +1,6 @@
 # Equivalence Classes for LOINC Terms (LOINC version 2.66)
 
-For some purposes, such a Clinical or EHR flowsheet, it is useful to regard
+For some purposes, such as a Clinical or EHR flowsheet, it is useful to regard
 groups of [LOINC](https://loinc.org/) terms as equivalent.  We call these groups
 "equivalence classes", and have defined a set of rules for generating them.  The
 rules vary between the various LOINC "classes" (e.g. CHEM, DRUG/TOX, etc.), so
