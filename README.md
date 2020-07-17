@@ -1,4 +1,4 @@
-# Equivalence Classes for LOINC Terms (LOINC version 2.67)
+# Equivalence Classes for LOINC Terms (LOINC version 2.68)
 
 For some purposes, such as a Clinical or EHR flowsheet, it is useful to regard
 groups of [LOINC](https://loinc.org/) terms as equivalent.  We call these groups
